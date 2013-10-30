@@ -43,10 +43,12 @@ aside figure img{
 	padding: 3%;
 	border-radius: 50%;
 }
+/***********  contenedor Articulos***************/
 main{
 	width:550px;
 	float: left;
 }
+/**********Estilos para cada artículo ***********/
 article h2,article p{
 	text-align: center;
 	margin: 0;
@@ -67,10 +69,12 @@ article figcaption{
 	width: 70%;
 }
 
+/**********  estilos del boton "Leer más" ***************/
 .button{
-	padding: 12px;
-	border-radius: 10px 0 10px 0;
+	padding: 5px;
+	border-radius: 5px 0 5px 0;
 	background-color: #279BCA;
+	color: #fff;
 	text-decoration: none;
 	display: block;
 	margin:  5px auto;
